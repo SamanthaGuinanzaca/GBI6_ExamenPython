@@ -1,0 +1,242 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+JNNH01000026.1      ----------------------------TAGCATAGCGTCCAGTGCCGCCGGCGCC-AAG
+JNNH01000028.1      ------------------------------------------------------------
+JNNH01000003.1      ------------------------------------------------------------
+AH014860.2          TCGTCGGATTGAGTGGGTAGGGTTTACAATGCAGCGGAGCAGTTGTGTCCCGAATAGGAG
+JNNH01000008.1      ----------------------------------CGGGATGAACCCTGTGTGCCTT-AAT
+JNNH01000007.1      -------------------------------------CATCATCCTGACCCAGCAT-GAT
+JNNH01000006.1      ------------------------------ACTTTATCGTCTTTATAGCCTATAAA-GGG
+JNNH01000014.1      --------------------------------ATTGCCGCGTTTTCCGCCCGGATC-G--
+JNNH01000005.1      ------------------------------GGACGGCTGCCATCTCC-TTTGGATA-G--
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      GCCGTTGTCGCATTGTTATCGAGATAAATGCTGC--GCGTCATGTTCATGGCTTCTGCCC
+JNNH01000028.1      ---GCGGTCA--ACGCTGTGGGGTTC----------------------------------
+JNNH01000003.1      --AGTTGCTG--------------------------------------------------
+AH014860.2          TTAGCTGATG--GTCCCAGAAGAGCTGTTTTCTCTCGCGT--------------------
+JNNH01000008.1      CCAGCTTTAGCCACCCCATGCGGTAAAACACCCCGGCCGTC-------------------
+JNNH01000007.1      CCGGCCATTG--TCGCCATGAGCGTCGCCTTCAACGCCGTTCTGGCCCAGTT--------
+JNNH01000006.1      CCTGCTGGCG----ACCTGGAGACGGGCCACCCTCCTTGTCGTGAGCCGCTATAATGGGA
+JNNH01000014.1      -----CGGCG---CGCCTGGGGCTGC-------CCGTTGACCTGCGTGCGCA--------
+JNNH01000005.1      -----TGTCGTGGCACCATAGGGTGTACCTCCGCTGATTTCGCCCATGTTCATCAGTTCC
+JNNH01000012.1      TCAGCCAGAG--------------------------------------------------
+                                                                                
+
+JNNH01000026.1      TTCGACGGGTAGAATTTCCTCTTCCAGGCAACCGACCACC-ATGCCATTGGCAAACTCCA
+JNNH01000028.1      ---CTGACATAGAA----------ACCGCATTTTGTAG--------GTTTTCAAACAGCC
+JNNH01000003.1      ------------------------------GACGACTGCT--------------------
+AH014860.2          ---TAGGGTTGGTACC--------GCCGTGGTTGGTGGACGATGTGACCTTCCAAGTGGA
+JNNH01000008.1      ----------AGCATCTCCACCAGCACCAGCCCGCCGGTC------ACCGCCGCAAAGCC
+JNNH01000007.1      ---GGTTTCTGGCGTTTCGTTGACGCCGCAGATTGGCGCC------ACGCTCATGGCGCA
+JNNH01000006.1      CGGAAGACATAAAACCCGCAGTATGGCGACACTGGCAGCC------ATTTTCCCGGGACA
+JNNH01000014.1      ---GGGGCGGGGCG----------GTGGTGAATTGCGG--------ATCCGCTGGGAGAA
+JNNH01000005.1      TGGCAGATGTAGGG----------GACACCAACCACGGTC------ATCCCCTGATGGAA
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      CGAGGTAGAGCGGCAT---------------------GTTGCCCTCTTCGTGATGTCCTA
+JNNH01000028.1      CGCCGGAGTTCACTAAAAT------------------GGCGGTATTTT------ACCGAA
+JNNH01000003.1      -------------------------------------TACGCTGCTTATGTGTGCGCCGT
+AH014860.2          GGAGAAGCGCCTGGATCTGCACATCAACTTTCCCAAGGGCAGTCGCTTTGCTTGCCCCGT
+JNNH01000008.1      --------------------------GT---------AACGCCAGTGCGGCA--------
+JNNH01000007.1      GGTGC---------------------GC---------AGCGGAGCC--------------
+JNNH01000006.1      CGGGATACCCTGGGAACGGACGTTACAA---------GGCGACGCCGCCGTATTGCCGGA
+JNNH01000014.1      T---------CCGGAACAG-------GA---------GGCGGCACTTTTTCAGTATCTGG
+JNNH01000005.1      TAGGAAAGTGTGGGAAGAA-------GT---------GATGGTGGTTT-------CCTGA
+JNNH01000012.1      -------------------------------------GGTGCTGGATTG-----------
+                                                                                
+
+JNNH01000026.1      -----------CCCGCACGATTTCTCCCGGACTGTCCTTGGCTACCAGCAAGGCCCCTTC
+JNNH01000028.1      ATTACAGAGCGTTAGAGTGATCATTACGGACTTGGCACGGCCCTTGCAACAG--------
+JNNH01000003.1      ----------------------------GCAAAGGCACGGTC------------------
+AH014860.2          ----CTGTGGTGAGGAGTGTCCGGTACATGACACCCGTGACCATACCTGGCGGCACATGG
+JNNH01000008.1      ----------------AAGGTCCTAGGGGCACGTTCATGGCGACCGCTCCGGG-------
+JNNH01000007.1      ----CTGCCATTCCACATGGTTACCCAAGGCCACTTGCAGCCACCGCCGCAGGG---TG-
+JNNH01000006.1      TATCCCATGAACCCGCCTGGCGGGAGGAGGTGAAGCATGCAACGCGTAGCGGG-------
+JNNH01000014.1      ----GCGTGTCTCTGGATGATGACGAAAGCGGATATTCGGC--GCTTGACGGGC---TG-
+JNNH01000005.1      ----CCACCATGCTGCGTGGCCGTGCTGGCAAAAACGCCGCCAATCTTGCCGAC---CAG
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      GGCCTCCCCAGGATAAGTCCCGTCATTAAAAATATCATCGCAAGCCCGTACCGTTAGGCC
+JNNH01000028.1      ----------------------------------------CGGATACGGAACGCGACTCT
+JNNH01000003.1      --------------------TTTCAGCGGG--------TGCGAATCCCGCCCGGCAACTG
+AH014860.2          ATTTCTTCCAGCATGAAGCCTATCTCCATG--------CCCGCGTACCTCGTGTGA----
+JNNH01000008.1      -----------------------AATGAAG--------AGCGGAATCGTTGCGAGAATGA
+JNNH01000007.1      -----------GCGAAAGGATGCAGGTCGG--------TCAGTTCACGTCGCCCGACGCC
+JNNH01000006.1      --------------------TGCCGTGATG--------GGCGCCCTGATTGGTGATGCAC
+JNNH01000014.1      --------------------CATCGGCGTG--------TTTAGACTCAGCGCGTATTCAA
+JNNH01000005.1      TTTACCTTCCTGCCAGAGATTGCCGGTACG--------GTCGAGAAAATTACGCATTTTC
+JNNH01000012.1      --------------------------------------GGCGGGCACCTACGCCGGGGTG
+                                                                                
+
+JNNH01000026.1      CCAATCAAATCGG------------------GGTAGACGTAAATCCATCATGGGA-----
+JNNH01000028.1      TCCCCGTTTTTGG-------------------------GGGCTTCCACCTGGCAAGTTAG
+JNNH01000003.1      TCGCT----------------------------CCAGCCGGTAGCAATCGGGGCA-----
+AH014860.2          ------------------------------------------AGTGCCCGGAGCA-----
+JNNH01000008.1      TCAAT-------------------------------GCCGCCATGAATTTGAACAGGTGA
+JNNH01000007.1      CTGCTCACGGCCG---------GATACGCCGCGCTGGCCGCCGCGGATCCCGACA-----
+JNNH01000006.1      TGGCTTTGGGGTG---------------------------TCATTGGTACTACGA-----
+JNNH01000014.1      GAATTGTCTGTTG-----AAGGCGTCAAAAAAACAAACCGCGAT------GGTCA-----
+JNNH01000005.1      CCGCTCCGCGTCGCGCCAGAGTCATCCCGTGCGCCATCGGCGATGGCCCCGGCCA-----
+JNNH01000012.1      TTGCCCTGTGCGG-----------------------------------------A-----
+                                                                          *     
+
+JNNH01000026.1      -TTCTCTCCTCCTGAACCGGATTGCTTTCGATCAGATCCAG-------TTCACG----GC
+JNNH01000028.1      TCCATTTTGAAACAGGAGACATGGCAA----------TGAGTGACAAATTAAGGCAAATC
+JNNH01000003.1      ------------------------------------------------------------
+AH014860.2          -------TGGAGTGCATCAGATATCTGTTCCCTGGGCACGGAAA--GGCTCGCATTTCAC
+JNNH01000008.1      TTGACATTGTTGTGCACCACATAGGCA---TAAGATTCCAGCAGTTCGCTGAGGGTC-GC
+JNNH01000007.1      -TCGTCATTGAGCCCGCCTGGAAGGTG--------------AGCCTGGTTTACGGCATGC
+JNNH01000006.1      -CCTTGCCGAACTGCGGCGGGAATGTGGCCCCTGG-ATTACCGACTATCTCACGCCGCGC
+JNNH01000014.1      -ATTTTTCGTCGTATGTGGGACGGGTG---------ACCGCCACTGTACTGACGTTG-GC
+JNNH01000005.1      -TGGTTTCGATATGCCTCGAAAGGCTGTGATATGGCGCCAGCATTTTGCTCATGATG-GT
+JNNH01000012.1      -CTGTCCCGGTGTGCGCGAGACCATTA-------------------CGCTTAACAAAAAC
+                                                                                
+
+JNNH01000026.1      CCTTCATGCCGACCAGATGACCACGC----------------------------------
+JNNH01000028.1      GC------------CTTTTACGGTAA----------------------------------
+JNNH01000003.1      -------------------GTCGTGG----------------------------------
+AH014860.2          CCTGCTCTTCGAAGCGCTGATCATGA-----------------CCCTGGTG---------
+JNNH01000008.1      C----------------TGATCACTG----------------------------------
+JNNH01000007.1      CCTGCGC-------CATTTACCACCAACTGCCGGCGGCTTACTACCTGGCCAGTCGTTTC
+JNNH01000006.1      CC--CGA-------CCGTTATCACGG--------------------TGGCC---------
+JNNH01000014.1      CC--TGC-------TGATGGCCGCGG--------------------TGGCGGCTTGGGGC
+JNNH01000005.1      C----------------TCCTCGTGT--------------------TGGCCAATATTGCC
+JNNH01000012.1      C----------------TCACCATGG----------------------------------
+                                                                                
+
+JNNH01000026.1      ----------------------------------TCATAAAAATCCACACCATAAATAT-
+JNNH01000028.1      ------------------------------------------------------------
+JNNH01000003.1      ------------------------------------------------------------
+AH014860.2          -------------------------------------------CGGGAAATGCCGGTATT
+JNNH01000008.1      ------------------------------------------------------------
+JNNH01000007.1      CGGGAAGATTATGAATCAGCCGTAC------------------TGCACGCCATCAACGG-
+JNNH01000006.1      -------------------------------------------TGCGTGCCGGCGACAT-
+JNNH01000014.1      TGGGGGCGTGAAGAAGCCTACGCAGTGCTTTTTGCGGCATTTTTGAGTGTAGTCAACATG
+JNNH01000005.1      CAAGAG-------------------------------------TAAAGACGGTTAGTATA
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      ------------------------------------------------------------
+JNNH01000028.1      ------------------------------------------------------------
+JNNH01000003.1      ------------------------------------------------------------
+AH014860.2          GACGGCANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+JNNH01000008.1      ------------------------------------------------------------
+JNNH01000007.1      ------------------------------------------------------------
+JNNH01000006.1      -CTCGCAAAC--------------------------------------------------
+JNNH01000014.1      CTTATTTTGG--------------------------------------------------
+JNNH01000005.1      TCTTGTAAAG--------------------------------------------------
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      -----------------------------------------------------AAAATTG
+JNNH01000028.1      ------------------------------------------------------------
+JNNH01000003.1      ------------------------------------------------------------
+AH014860.2          NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGGCTTACCAATTC
+JNNH01000008.1      ----------------------------------------------------------TC
+JNNH01000007.1      ------------------------------------------------------------
+JNNH01000006.1      -----------------------------------------------------CGGACTG
+JNNH01000014.1      -----------------------------------------------------GTGGT--
+JNNH01000005.1      -----------------------------------------------------TAGGTAC
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      CTGCAAGT----------------------------AGGTGCCGATACTGATGATAAAAC
+JNNH01000028.1      ------------------------------------GGGGGGCATTGGCAA---------
+JNNH01000003.1      ----AGGTAACG------------------------AAGCGGCTGAAGCCTCCGGTGTAG
+AH014860.2          CGCCTGACCTTTCA----------------------GGACATTTTCACGATCAAGAATCG
+JNNH01000008.1      CACCTGGTCCCGCACTTG------------------GGACAGCTCAACCCTGGTG-----
+JNNH01000007.1      ----GGGT----------------------------GGACAAAACATGTCCCGCGCGATG
+JNNH01000006.1      CTGCTGGTCATGCTGATGGAGTCGTTGGT-------GCACTGCGCGGGTTATGAGGAGGA
+JNNH01000014.1      CGCCTGATCGCGCTCCCCGCCTCTGCGCAACGCGCTGCACAGCGCTTGGGTGGAGCGGTG
+JNNH01000005.1      TATCAGGTAACTACTACC------------------AGGCAGCCCTGGAAAGAGGTGGCA
+JNNH01000012.1      ----AGATCACT------------------------ACTCAGTATGTGGGTCGCG-----
+                                                                                
+
+JNNH01000026.1      CGATATCGCC----------------------TTTGGTAACAATCACCTCGCCAAT----
+JNNH01000028.1      --GTCTACCACCTCCCAGAATACCCTGGCAGCCCTTACGGAAATGGGCCAAAAGATTCTC
+JNNH01000003.1      AGG---------------------------------------------------------
+AH014860.2          CCATCAGG------GGGCTACCCTCTTGAAAGCCTGGTTGGAAAACGCCAAGACCAGCGA
+JNNH01000008.1      --------------------------------TCTTCGTGGAGTTCCAT--CAGGAACGT
+JNNH01000007.1      TTGACGGGCGCGCTCGTGGGTGCCCAGGTAGGTCTGGAGGGAATTCCCCG------TCGT
+JNNH01000006.1      CGATTTCACCCGTCGGCTGG---ATACGGAACTGTTCCCGCAGTTGGATGGCACGCCCAT
+JNNH01000014.1      TTGCAGCGCTGGACGATCACCATCCTCGGACTGATTTTTGCAATATTCTGGCTGCGCCTG
+JNNH01000005.1      TGGCCTAACCCGGCTATGGA-----------------TTGGAATTCTCTGACCAATCC--
+JNNH01000012.1      ---------------------------------GTGACCAGATTTTTC------------
+                                                                                
+
+JNNH01000026.1      ----------ATCGGCGCCGGTA--------------AATGTTCCATCATTTTTCACATG
+JNNH01000028.1      ATCGTC------------GGCTGCGACCCCAAAGCTGACTCCACCCGTTTGATTCTTCAC
+JNNH01000003.1      ----------ACCATGAAAAGTG-----------------------GCTTGGTAAGTATG
+AH014860.2          TCTGCCGCCTATCGTCAAGGTTGCCTACACCATCATGAATCATTGGGATGGTGT-GCTCC
+JNNH01000008.1      GTCTCC----GGCGGGGAGAAAA------------TGCGCGATTTCACTGACCACGTATT
+JNNH01000007.1      TTCATC----ACCGGGCTGCGTG----------------------------------ACG
+JNNH01000006.1      GCAGGG----ACCGGGGG---------------GCTACACCAACCAATCCATTCGGGAGG
+JNNH01000014.1      CCGGTC----ATCGGGCTGGTCGCCGGATTCTTGCTGACCCATTTCGTATTTTTGGCATT
+JNNH01000005.1      ------------CGGAGAGGGCGCGGCA-------TGGACCAATACGAAAGCATAGAACT
+JNNH01000012.1      ----------GTCGGGGAAACCA--------------------------------ATTCT
+                                                                                
+
+JNNH01000026.1      TTTGCGGGAACGGACTTTATCCCCATAATTGAACT-------------------------
+JNNH01000028.1      TCCAAAGCACAGGACACCGTACTGAGCCT-------------------------------
+JNNH01000003.1      CAGGTTGC----AA----------------------------------------------
+AH014860.2          ACTGGTTT----GA----GAGCCAG-----------------------------------
+JNNH01000008.1      CGAGTTGC----AG--TAGTCCCAGATCC-------------------------------
+JNNH01000007.1      CCCAGCGC----TATCTGGCGCTGGCGGCGG-----------------------------
+JNNH01000006.1      CCTGGCGT----AAGCGCGTGCCAG-----------------------------------
+JNNH01000014.1      TCTGGTGC----GGGAACGTTCCAGGCAAAGGAGTTAAGCGTGGCATCAGGCGATATCGC
+JNNH01000005.1      CCTGTGGC----GG-------CCTGGAGACG---------------------------GT
+JNNH01000012.1      CCTGGGTC----GAC---------------------------------------------
+                                                                                
+
+JNNH01000026.1      ------------------------CGGGTTCTGCGCCCAACTCGACGGTCGCACTATCTC
+JNNH01000028.1      -------------CGCGGCTGAGGCGGGCAGCGTGGAGGATCTGGAAATCGAAGACGTTA
+JNNH01000003.1      ------------------CGTGAGTGAACACTGAGCAGGCCTCGAAAAGCGTAATGCGGA
+AH014860.2          ----------------ATCACCAATGGAATTCTGGAAGGTTTTAACAGCCTCATTCAATC
+JNNH01000008.1      -------------AACGCCAGCAGACGG---T-CGTTGATATCCAGTCCGCGGTACACCA
+JNNH01000007.1      -------------AACTGGAGCAATGGG---C-GGTCAGACAGGAAACGCTTTAACCCAG
+JNNH01000006.1      -------------AGCATCGCCCATGGG---G-AGAATGCGCCGGG------------GA
+JNNH01000014.1      CCATCACCTCGTAAACTGGTCCATCGG------CGAAGGCTTCTGGACCTTTAACCTCGA
+JNNH01000005.1      CCACCCTGTCGTGGGCTGCTATAATGGG---ACGGAAAGATACAAAACCTGT----CCTG
+JNNH01000012.1      -------------GGCAACACCATTCGG---CTGGAAGGC--------------------
+                                                      *                         
+
+JNNH01000026.1      TGCTCA-----TACCGGCCATGATTCATGCTCCCCTGGCAATCGTTGTCTG---------
+JNNH01000028.1      TGAAAGTCGGTTACAGG-----------------------GATATCCGCTGCGTGGAATC
+JNNH01000003.1      AGCCGACCCGCCACATATACGGGGAAGGCT-------------GTCATCATTGGGGTAGC
+AH014860.2          CGCCAA--GGCGA-AAGCTCGGGGTTACCGTACCCACAAGAACTTTATCAATATGGCCTA
+JNNH01000008.1      CATCAT--GGCGCTGGGCCTGGCGCAGGTCCCGCTCCACTACGGTCATTTCCCGGGTTAC
+JNNH01000007.1      GATGGG--GTCGGTCATGGCAGGGCCGTTTGAGCCAGTCGTTGGGCGCGTATGTT-----
+JNNH01000006.1      TGCGGA--CACGACGGA--GGGTGCCGAAC-----------GCGCCGTTGCCATCGCTGC
+JNNH01000014.1      CACCAT--CGTCATGGGTTGGGTCCTGGCC-GCCATACTGGTGATTACCGCCATGGTGG-
+JNNH01000005.1      CACTCA--AATAACGGGTGCAGGGCGGATTTAACTGGTTTGATACTTTCAGTGTGGCGGT
+JNNH01000012.1      ------------ATGGGCGGTGGGCCGACT---------------CTCTACCGTG-----
+                                                                                
+
+JNNH01000026.1      ------------------------------------------------------------
+JNNH01000028.1      CG----------------------------------------------------------
+JNNH01000003.1      GAGCGACGCGAACACCCAGTGG--------------------------------------
+AH014860.2          CCTGATCTTGGGTAAGCTGGATCTCAGGCTACCCACTTGAAATGACGA------------
+JNNH01000008.1      CGAGCGCGCGG-------------------------------------------------
+JNNH01000007.1      ------------------------------------------------------------
+JNNH01000006.1      TC----------------------------------------------------------
+JNNH01000014.1      ------------------------------------------------------------
+JNNH01000005.1      TCCATCGGCCAGTTTCCCGGAACACGGGGTGCCCAGGGTGGTATGGGCGGGAGGAGGTGA
+JNNH01000012.1      ------------------------------------------------------------
+                                                                                
+
+JNNH01000026.1      -------
+JNNH01000028.1      -------
+JNNH01000003.1      -------
+AH014860.2          -------
+JNNH01000008.1      -------
+JNNH01000007.1      -------
+JNNH01000006.1      -------
+JNNH01000014.1      -------
+JNNH01000005.1      AGCATGC
+JNNH01000012.1      -------
+                           
