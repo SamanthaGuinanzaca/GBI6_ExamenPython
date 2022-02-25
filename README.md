@@ -17,6 +17,5 @@
 ### 1. sequence.seq esra el accesion list de los genes de Acidithiobacillus ferrooxidans que es una bacteria que puede biorremediar Hierro
 ### Se ha realizado varias experimentaciones con los genes en E.coli para aplicar en biorremediación de muestras ambientales. 
 ### 2. secuencias_bac.txt se encuentran 10 secuencias
-### 3. sequencias_alineadas.txt en este documentos se ecuentra alineadas las secuencias mediante Clustal ya que mi computadora no tiene suficuente espacio
-### lo realice manualmente desde la web de Clustal
+### 3. sequencias_alineadas.txt en este documentos se ecuentra alineadas las secuencias mediante Clustal ya que mi computadora no tiene suficuente espacio por el cual lo realice manualmente desde la web de Clustal
 
