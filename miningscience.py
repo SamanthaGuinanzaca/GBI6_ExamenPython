@@ -6,7 +6,7 @@ def download_pubmed (keyword):
     from Bio import Entrez
     from Bio import SeqIO
     from Bio import GenBank 
-    Entrez.email = 'rossana.parra@est.ikiam.edu.ec'
+    Entrez.email = 'samantha.guinanzaca@est.ikiam.edu.ec'
     handle = Entrez.esearch(db='pubmed',
                         sort='relevance',
                         retmax='200',
@@ -15,7 +15,7 @@ def download_pubmed (keyword):
     results = Entrez.read(handle)
     id_list = results["IdList"]
     ids = ','.join(id_list)
-    Entrez.email = 'rossana.parra@est.ikiam.edu.ec'
+    Entrez.email = 'samantha.guinanzaca@est.ikiam.edu.ec'
     handle = Entrez.efetch(db='pubmed',
                        retmode='xml',
                        id=ids)
