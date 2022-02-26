@@ -18,4 +18,5 @@
 ### Se ha realizado varias experimentaciones con los genes en E.coli para aplicar en biorremediación de muestras ambientales. 
 ### 2. secuencias_bac.txt se encuentran 10 secuencias
 ### 3. sequencias_alineadas.txt en este documentos se ecuentra alineadas las secuencias mediante Clustal ya que mi computadora no tiene suficuente espacio por el cual lo realice manualmente desde la web de Clustal
-
+## Explicación de las librerias utilizadas
+### Se utilizo el paquete Biopython para importar diferentes módulos como Entrez que es un sistema de búsqueda en línea proporcionado por NCBI, también el módulo Bio.SeqIO proporciona el método para procesar archivos de secuencia y Genbank ej banco genético. Además, se utiliza el módulo Phylo sirve para la construcción de árboles filogenéticos y Bio.AlignIO para leer y escribir alineaciones de secuencia. Adicionalmente se importo pandas para la data frame. 
